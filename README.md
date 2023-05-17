@@ -1,2 +1,3 @@
-# hello-dapr
-🎩 Running PHP's Dapr SDK within Swoole &amp; Hyperf.
+# Hello Dapr
+
+🎩 Running PHP's Dapr SDK within Swoole & Hyperf.
