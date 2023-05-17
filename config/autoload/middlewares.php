@@ -1,6 +1,9 @@
 <?php
 
 declare(strict_types=1);
+
+use App\Middleware\DaprMiddleware;
+
 /**
  * This file is part of Hyperf.
  *
@@ -11,5 +14,6 @@ declare(strict_types=1);
  */
 return [
     'http' => [
+        DaprMiddleware::class,
     ],
 ];
